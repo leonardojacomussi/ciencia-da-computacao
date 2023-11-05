@@ -47,7 +47,7 @@
         <td>Desenvolvimento Mobile</td>
         <td>3B</td>
         <td>PR1 | Angular Routes (forChild & forRoot)</td>
-        <td><a href="https://github.com/leonardojacomussi/ciencia-da-computacao/desenvolvimento-mobile-pr1" target="_blank">desenvolvimento-mobile-pr1</a></td>
+        <td><a href="https://github.com/leonardojacomussi/ciencia-da-computacao/tree/main/desenvolvimento-mobile-pr1" target="_blank">desenvolvimento-mobile-pr1</a></td>
       </tr>
     </tbody>
   </table>
